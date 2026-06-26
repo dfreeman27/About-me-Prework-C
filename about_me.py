@@ -1,6 +1,5 @@
 
-# Variable user info 
-from operator import add
+# Variable user info
 
 
 first_name = "Dajawaun" 
